@@ -54,13 +54,22 @@ Purdue University | Class of 2024
   - Deployed with SSL/TLS certificates for production-ready security
 
 ### [AegisManager](https://github.com/claw726/AegisManager) - Team Collaboration Platform
-**Scalable task management system for small teams**
-- **Impact**: Streamlined team workflow with intuitive task assignment and progress tracking
+**Enterprise task management system developed using industry-standard methodologies (CS 307 Software Engineering)**
+- **Impact**: Delivered full-stack application using SCRUM methodology with sprint planning and reviews
 - **Tech Stack**: Vue.js, Java Spring Boot, Docker
 - **Key Achievements**: 
-  - Architected containerized microservices with Docker Compose
-  - Implemented real-time updates and collaborative features
-  - Deployed with zero-downtime deployment strategy
+  - Collaborated in a 4-person team using AGILE practices with comprehensive documentation and code reviews
+  - Architected containerized microservices with Docker Compose following enterprise patterns
+  - Implemented real-time task assignment and progress tracking with role-based access control
+
+### [Law-Fixit](https://github.com/claw726/Law-Fixit) - Database Management System
+**Comprehensive mechanic shop management application (CS 348 Database Systems)**
+- **Impact**: Designed normalized database schema managing customer relationships, vehicle records, and service workflows
+- **Tech Stack**: Python, Tkinter, SQL Database Design
+- **Key Achievements**:
+  - Architected 5-table relational database with proper foreign key constraints and data integrity
+  - Implemented CRUD operations with business logic for appointment scheduling and invoice management
+  - Built intuitive desktop GUI with for appointment booking and status tracking
 
 ### [Rust Music Player](https://github.com/claw726/Rust-music-player) - High-Performance CLI Application
 **Memory-efficient audio player supporting 10+ formats**
