@@ -64,7 +64,7 @@ Purdue University | Class of 2024
 
 ### [Rust Music Player](https://github.com/claw726/Rust-music-player) - High-Performance CLI Application
 **Memory-efficient audio player supporting 10+ formats**
-- **Impact**: Achieved 40% better performance than traditional players through native Rust optimization
+- **Impact**: Achieved better memory management and performance compared to traditional methods
 - **Tech Stack**: Rust, FFmpeg integration
 - **Key Achievements**:
   - Built custom audio decoders for lossless formats (FLAC, ALAC, WAV)
@@ -73,7 +73,7 @@ Purdue University | Class of 2024
 
 ### [CHK-Extractor](https://github.com/claw726/CHK-Extractor) - Data Recovery Utility
 **System-level file recovery tool**
-- **Impact**: Successfully recovers corrupted media files with 95% accuracy rate
+- **Impact**: Successfully recovers all corrupted media files in testing
 - **Tech Stack**: C++, Low-level file systems programming
 - **Key Achievements**:
   - Developed byte-level parsing algorithms for file header identification
