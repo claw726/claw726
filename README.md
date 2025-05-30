@@ -20,6 +20,7 @@ Purdue University | Class of 2024
 ## 💼 Core Technical Competencies
 
 ### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0000?style=for-the-badge&logo=rust&logoColor=white)
@@ -30,6 +31,7 @@ Purdue University | Class of 2024
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Full-Stack Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -37,6 +39,7 @@ Purdue University | Class of 2024
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Specialized Skills
+
 - **Security**: JWT authentication, OAuth 2.0, bcrypt password hashing, HTTPS/TLS
 - **Performance**: Multi-threaded programming, systems optimization, efficient data structures
 - **DevOps**: Containerization, CI/CD pipelines, production deployment
@@ -44,26 +47,43 @@ Purdue University | Class of 2024
 
 ## 🚀 Featured Projects
 
+### [Alpha-Strike-Main](https://github.com/alpha-strike-space/Alpha-Strike-Main) - [EVE Frontier](https://www.evefrontier.com/en) Leaderboard
+
+**Main user interface for the Alpha-Strike Leaderboard**
+
+- **Impact**: Provides a user interface for the EVE Frontier leaderboard, utilizing an API for data
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Key Achievements**:
+  - Developed the main user interface for the leaderboard
+  - Integrated with [Professor Anderson's](https://github.com/kandrsn99) API for fetching the leaderboard stats
+  - Features include displaying recent combat logs, top killers, victims, solar systems, and search functionality
+
 ### [Hysterical Forums](https://github.com/kandrsn99/Hysterical-Forums) - Full-Stack Authentication System
+
 **Production-ready forum application with enterprise-grade security**
+
 - **Impact**: Implemented comprehensive JWT-based authentication with refresh token rotation
 - **Tech Stack**: Go, React, PostgreSQL, TypeScript, Chakra UI
-- **Key Achievements**: 
+- **Key Achievements**:
   - Designed secure authentication flow with bcrypt hashing and HTTPS enforcement
   - Built responsive React frontend with optimistic updates using TanStack Query
   - Deployed with SSL/TLS certificates for production-ready security
 
 ### [AegisManager](https://github.com/claw726/AegisManager) - Team Collaboration Platform
+
 **Enterprise task management system developed using industry-standard methodologies (CS 307 Software Engineering)**
+
 - **Impact**: Delivered full-stack application using SCRUM methodology with sprint planning and reviews
 - **Tech Stack**: Vue.js, Java Spring Boot, Docker
-- **Key Achievements**: 
+- **Key Achievements**:
   - Collaborated in a 4-person team using AGILE practices with comprehensive documentation and code reviews
   - Architected containerized microservices with Docker Compose following enterprise patterns
   - Implemented real-time task assignment and progress tracking with role-based access control
 
 ### [Law-Fixit](https://github.com/claw726/Law-Fixit) - Database Management System
+
 **Comprehensive mechanic shop management application (CS 348 Database Systems)**
+
 - **Impact**: Designed normalized database schema managing customer relationships, vehicle records, and service workflows
 - **Tech Stack**: Python, Tkinter, SQL Database Design
 - **Key Achievements**:
@@ -72,7 +92,9 @@ Purdue University | Class of 2024
   - Built intuitive desktop GUI with for appointment booking and status tracking
 
 ### [Rust Music Player](https://github.com/claw726/Rust-music-player) - High-Performance CLI Application
+
 **Memory-efficient audio player supporting 10+ formats**
+
 - **Impact**: Achieved better memory management and performance compared to traditional methods
 - **Tech Stack**: Rust, FFmpeg integration
 - **Key Achievements**:
@@ -81,7 +103,9 @@ Purdue University | Class of 2024
   - Created intuitive CLI interface with Vim-style keybindings
 
 ### [CHK-Extractor](https://github.com/claw726/CHK-Extractor) - Data Recovery Utility
+
 **System-level file recovery tool**
+
 - **Impact**: Successfully recovers all corrupted media files in testing
 - **Tech Stack**: C++, Low-level file systems programming
 - **Key Achievements**:
@@ -112,7 +136,7 @@ Purdue University | Class of 2024
 
 ---
 
-> *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+> _"Clean code always looks like it was written by someone who cares."_ - Robert C. Martin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=claw726&color=blue&style=flat-square)
 
