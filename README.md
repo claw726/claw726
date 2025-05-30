@@ -2,7 +2,7 @@
 
 ## 🎯 Actively Seeking Software Engineering Opportunities
 
-**Recent Computer Science Graduate | Full-Stack Developer | Systems Programming Enthusiast**
+### Recent Computer Science Graduate | Full-Stack Developer | Systems Programming Enthusiast
 
 Passionate about building scalable, efficient software solutions with expertise in modern web technologies and systems programming. Proven track record of delivering end-to-end applications with secure authentication, optimized performance, and production-ready deployment strategies.
 
@@ -49,7 +49,7 @@ Purdue University | Class of 2024
 
 ### [Alpha-Strike-Main](https://github.com/alpha-strike-space/Alpha-Strike-Main) - [EVE Frontier](https://www.evefrontier.com/en) Leaderboard
 
-**Main user interface for the Alpha-Strike Leaderboard**
+#### Main user interface for the Alpha-Strike Leaderboard
 
 - **Impact**: Provides a user interface for the EVE Frontier leaderboard, utilizing an API for data
 - **Tech Stack**: HTML, CSS, JavaScript
@@ -60,7 +60,7 @@ Purdue University | Class of 2024
 
 ### [Hysterical Forums](https://github.com/kandrsn99/Hysterical-Forums) - Full-Stack Authentication System
 
-**Production-ready forum application with enterprise-grade security**
+#### Production-ready forum application with enterprise-grade security
 
 - **Impact**: Implemented comprehensive JWT-based authentication with refresh token rotation
 - **Tech Stack**: Go, React, PostgreSQL, TypeScript, Chakra UI
@@ -71,7 +71,7 @@ Purdue University | Class of 2024
 
 ### [AegisManager](https://github.com/claw726/AegisManager) - Team Collaboration Platform
 
-**Enterprise task management system developed using industry-standard methodologies (CS 307 Software Engineering)**
+#### Enterprise task management system developed using industry-standard methodologies (CS 307 Software Engineering)
 
 - **Impact**: Delivered full-stack application using SCRUM methodology with sprint planning and reviews
 - **Tech Stack**: Vue.js, Java Spring Boot, Docker
@@ -82,7 +82,7 @@ Purdue University | Class of 2024
 
 ### [Law-Fixit](https://github.com/claw726/Law-Fixit) - Database Management System
 
-**Comprehensive mechanic shop management application (CS 348 Database Systems)**
+#### Comprehensive mechanic shop management application (CS 348 Database Systems)\*\*
 
 - **Impact**: Designed normalized database schema managing customer relationships, vehicle records, and service workflows
 - **Tech Stack**: Python, Tkinter, SQL Database Design
@@ -93,7 +93,7 @@ Purdue University | Class of 2024
 
 ### [Rust Music Player](https://github.com/claw726/Rust-music-player) - High-Performance CLI Application
 
-**Memory-efficient audio player supporting 10+ formats**
+#### Memory-efficient audio player supporting 10+ formats
 
 - **Impact**: Achieved better memory management and performance compared to traditional methods
 - **Tech Stack**: Rust, FFmpeg integration
@@ -104,7 +104,7 @@ Purdue University | Class of 2024
 
 ### [CHK-Extractor](https://github.com/claw726/CHK-Extractor) - Data Recovery Utility
 
-**System-level file recovery tool**
+#### System-level file recovery tool
 
 - **Impact**: Successfully recovers all corrupted media files in testing
 - **Tech Stack**: C++, Low-level file systems programming
